@@ -175,10 +175,10 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:BA Weekend: October 2025 – ACFT (Record), IWQ Prep, Range Loadout
+SUMMARY:BA Weekend: October 2025 – Auto-Update Test
 DTSTART;VALUE=DATE:20251018
 DTEND;VALUE=DATE:20251020
-DESCRIPTION:Training Focus: ACFT (Record), IWQ Prep, Range Loadout\nMUTA: 4\nEOY MUTA: 01-04\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
+DESCRIPTION:Training Focus: Auto-Update Test\nMUTA: 4\nEOY MUTA: 01-04\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
