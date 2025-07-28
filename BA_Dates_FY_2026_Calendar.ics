@@ -175,10 +175,10 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:BA Weekend: October 2025 – ACFT (Record), IWQ Prep, Range Loadout
+SUMMARY:BA Weekend: October 2025 – Testing
 DTSTART;VALUE=DATE:20251018
 DTEND;VALUE=DATE:20251020
-DESCRIPTION:Training Focus: ACFT (Record), IWQ Prep, Range Loadout\nMUTA: 4\nEOY MUTA: 01-04\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
+DESCRIPTION:Training Focus: Testing\nMUTA: 4\nEOY MUTA: 01-04\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
@@ -192,10 +192,10 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:BA Weekend: November 2025 – WQ at Fort Benning (FBGA)
+SUMMARY:BA Weekend: November 2025 – IWQ at Fort Benning (FBGA)
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251117
-DESCRIPTION:Training Focus: WQ at Fort Benning (FBGA)\nMUTA:\nEOY MUTA: 05-10\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
+DESCRIPTION:Training Focus: IWQ at Fort Benning (FBGA)\nMUTA: 6\nEOY MUTA: 05-10\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:BA Weekend: December 2025 – FRG & Holiday Lunch (uniform AGSU/ASU)
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251215
-DESCRIPTION:Training Focus: FRG & Holiday Lunch (uniform AGSU/ASU)\nMUTA:\nEOY MUTA: 11-14\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
+DESCRIPTION:Training Focus: FRG & Holiday Lunch (uniform AGSU/ASU)\nMUTA: 4\nEOY MUTA: 11-14\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
@@ -227,8 +227,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:BA Weekend: January 2026 – ECT Mission Analysis, CSDP
-DTSTART;VALUE=DATE:20260111
-DTEND;VALUE=DATE:20260113
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260112
 DESCRIPTION:Training Focus: ECT Mission Analysis, CSDP\nMUTA: 4\nEOY MUTA: 15-18\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:BA Weekend: February 2026 – 368th FEST-M DRU ATB
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260223
-DESCRIPTION:Training Focus: 368th FEST-M DRU ATB\nMUTA:\nEOY MUTA: 19-24\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
+DESCRIPTION:Training Focus: 368th FEST-M DRU ATB\nMUTA: 6\nEOY MUTA: 19-24\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
@@ -262,8 +262,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BA Weekend: March 2026 – AutoCAD Workshop, ECT Design Support
 DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260317
-DESCRIPTION:Training Focus: AutoCAD Workshop, ECT Design Support\nMUTA:\nEOY MUTA: 25-28\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
+DTEND;VALUE=DATE:20260316
+DESCRIPTION:Training Focus: AutoCAD Workshop, ECT Design Support\nMUTA: 4\nEOY MUTA: 25-28\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:BA Weekend: April 2026 – STAFEX, Driver's Training
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260413
-DESCRIPTION:Training Focus: STAFEX, Driver's Training\nMUTA:\nEOY MUTA: 29-32\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
+DESCRIPTION:Training Focus: STAFEX, Driver's Training\nMUTA: 4\nEOY MUTA: 29-32\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:BA Weekend: May 2026 – ACFT (Record), COMEX
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260518
-DESCRIPTION:Training Focus: ACFT (Record), COMEX\nMUTA:\nEOY MUTA: 33-36\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
+DESCRIPTION:Training Focus: ACFT (Record), COMEX\nMUTA: 4\nEOY MUTA: 33-36\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
 ACTION:DISPLAY
@@ -312,8 +312,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:BA Weekend: June 2026 – USACE Hydroelectric Tour
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260617
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260615
 DESCRIPTION:Training Focus: USACE Hydroelectric Tour\nMUTA: 4\nEOY MUTA: 37-40\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -330,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BA Weekend: July 2026 – ECT Reset & AAR, IWQ Planning
 DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260727
 DESCRIPTION:Training Focus: ECT Reset & AAR, IWQ Planning\nMUTA: 4\nEOY MUTA: 41-44\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -347,7 +347,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BA Weekend: August 2026 – FTD, IWQ OPORD Brief, FBGA Product Development and Planning
 DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260824
 DESCRIPTION:Training Focus: FTD, IWQ OPORD Brief, FBGA Product Development and Planning\nMUTA: 4\nEOY MUTA: 45-48\n*Subject to change, based on higher directives.*\nCreated by SSG Gbeve
 BEGIN:VALARM
 TRIGGER:-P7D
